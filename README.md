@@ -39,3 +39,8 @@ We are using LBPH (Local Binary Patterns Histograms ) classifier to recognize th
 2. Run detector.py to detect the face. If any face stored in dataset, the name of the person will be displayed.
 
 3. The detected person's data will be added to the google form.
+
+
+
+
+## Project clone from https://github.com/raghulrage/Face-Recognition
