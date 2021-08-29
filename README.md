@@ -43,4 +43,4 @@ We are using LBPH (Local Binary Patterns Histograms ) classifier to recognize th
 
 
 
-## Project clone from https://github.com/raghulrage/Face-Recognition
+## This Project is clone from https://github.com/raghulrage/Face-Recognition
